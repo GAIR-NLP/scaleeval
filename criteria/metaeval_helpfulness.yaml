@@ -1,0 +1,40 @@
+criteria:
+  helpfulness-1:
+    "1": "Not Helpful - The response is completely unrelated, lacks coherence, and fails to provide any meaningful information."
+    "2": "Somewhat Helpful - The response bears some relevance but remains largely superficial and unclear, addressing only the peripheral aspects of the user's needs."
+    "3": "Moderately Helpful - The response is mostly relevant and clear, covering the basic aspects of the query, but lacks depth and comprehensive elucidation."
+    "4": "Helpful - The response is on-point, detailed, and well-articulated, offering valuable information and clarifications that meet the user's primary needs and enhance understanding."
+    "5": "Highly Helpful - The response is exceptionally thorough and precise, providing additional insights and valuable supplementary information."
+  helpfulness-2:
+    "1": "The response is completely unrelated, lacks coherence, and fails to provide any meaningful information."
+    "2": "The response bears some relevance but remains largely superficial and unclear, addressing only the peripheral aspects of the user's needs."
+    "3": "The response is mostly relevant and clear, covering the basic aspects of the query, but lacks depth and comprehensive elucidation."
+    "4": "The response is on-point, detailed, and well-articulated, offering valuable information and clarifications that meet the user's primary needs and enhance understanding."
+    "5": "The response is exceptionally thorough and precise, providing additional insights and valuable supplementary information."
+  helpfulness-3:
+    "1": "N*t H$l%ful - Th$ r$sp0n$e is c mplt$l? unr€la7$d, la$ks c()h$r$n(€, and f#i/s t# p$o&id$ any m€an*&gful !format$on."
+    "2": "S#m$*ha+ H$%*fu/ - Th$ r#s0!n$ b%ars $o/e re$ev*nc$ b$t r$ma$n$ l#rg$l4 $u/7$r7cial an* !ncl=4r, a6r$ss@n4 o7ly th$ p$r4ph@r$l a5p$cts #f th$ $s*r's n**ds."
+    "3": "M$!7r$t#ly H$lpfu& - Th$ r@s0*n$@ !s m$%stl€ r$'$van7 an cl$ar, c$%$r$n4 th$ ba$!c a$%cts of th$ qu€ry, b$t l#cks d$pth and cmpr$h$ns$v$ lu$7$dat!on."
+    "4": "H$lpfu& - Th$ r!s0*n$e !s o/7-p$!nt, d$ta$!l$d, an w$l/-a&!u/at$d, #ff$r!n4 v#l$%bl$ #nformat$on an cl*r$!cat!ons th#t m=t th$ u/7$r's pr!/ary n$$ds an* @n7anc$ un#rstand!n4."
+    "5": "H4#h7y H$!p%u& - Th$ r$s&*n!e !s $xc$pt$#nally th#r#7gh an* pr$c$%$, pr#v$d$n# a4*!t$#nal !ns$4hts an* v#lu%bl$ @*pp%$%ntary #n%ormat$on."
+  helpfulness-4:
+    "1": "coherence fails provide unrelated, completely response - and the meaningful any to lacks Not Helpful is The information."
+    "2": "superficial response largely addressing unclear, remains only needs. - relevance user's and the Helpful the peripheral some bears but aspects Somewhat The of"
+    "3": "basic aspects query, lacks Moderately covering clear, - Helpful is depth response and comprehensive elucidation. relevant mostly the The and the of but"
+    "4": "clarifications the is response information needs enhance and Helpful - on-point, valuable well-articulated, offering understanding. The and detailed, primary that user's meet"
+    "5": "valuable Highly response is providing - the exceptionally Helpful information. insights thorough and additional precise, supplementary and The"
+  helpfulness-5:
+    "1": "toN lufpleH -  ehT esnopser si yletelpmoc detalernu, skcal ecnerehoc, dna sliaf ot edivorp yna lufgninaem noitamrofni."
+    "2": "tamewoS lufpleH - ehT esnopser sraeb emos ecnaveler tub sniamer ylegral laicifrepus dna raelcnu, gnisserdda ylno eht larehpirep stcepsa fo eht s'resu sdeen."
+    "3": "yletaredoM lufpleH - ehT esnopser si yltsom tnaveler dna raelc, gnirevoc eht cisab stcepsa fo eht yreuq, tub skcal htped dna evisneherpmoc noitadicule."
+    "4": "lufpleH - ehT esnopser si tniop-no, deliated, dna detalucitra-llew, gnireffo elbaulav noitamrofni dna snoitacifralc taht teem eht s'resu yramirp sdeen dna ecnahne gnidnatsrednu."
+    "5": "ylhgiH lufpleH - ehT esnopser si yllanoitpecxe hguoroht dna esicerp, gnidivorp lanoitidda sthgisni dna elbaulav yratnemelppus noitamrofni."
+  helpfulness-6:
+    "1": "N__ H_l_ful - The r__pnse is c_m__et__y unr_l_te_, lacks _ohe_en_e, _nd _ai_s to p_ov_de _ny m_a__ngfu_ _nfo_ma_ion."
+    "2": "_om_w_at He_p_ul - T_e re_ponse be_rs _ome rel__a_ce but r__ains la__ely s__erfi__al and u_cle__, ad_res__ng onl_ _he __ri__er_l a_pe_ts of t__ u_e_'s ne_ds."
+    "3": "Mod___tely _elp__l - Th_ _esp__se is mos__y re__va_t an_ _le_r, c_v__ing the ba_ic _spe_ts of the q_e_y, but __cks _e_th and co_preh_ns_ve el_c_d_t_on."
+    "4": "__lpful - _he respo_se is on-p_in_, d___iled, and we_l-ar_icu_ated, of_er_ng val_ab_e __for_ation and cl_r_fi__t_ons t_at mee_ the _se_'s p_im_r_ _eeds and en__nce u_de__tan_ing."
+    "5": "Hi_h_y H__p_ul - The r_spon_e is e_c_p_io_al__ th_r_ugh and p_ec_se, pr_vi_ing a_di__on_l ins_g_ts and va_u_b_e _upp_e_en_a_y inf_rma_io_."
+
+input_outputs:
+  input: "completion"

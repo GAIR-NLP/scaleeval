@@ -1,0 +1,39 @@
+criteria:
+  code_interpretability:
+    "1": "Not Interpretable - The response is characterized by an absence of comments/explanations, unclear variable/function names, and a chaotic structure."
+    "2": "Minimally Interpretable - The response sporadically features explanations and some attempts at meaningful naming are evident, but the overall structure and logic are predominantly unclear. Multiple areas are ambiguous."
+    "3": "Moderately Interpretable - The response presents a recognizable structure and supported by a satisfactory quantity of comments and explanations. For code blocks, the variable/function names generally convey their purpose, but specific areas are somewhat obscure."
+    "4": "Very Interpretable - The response showcases a well-thought-out organization, comprehensive and informative explanations, and a consistent use of meaningful naming conventions. Any complexities or unconventional choices are thoroughly documented and rationalized."
+    "5": "Exceptionally Interpretable - The response exemplifies the pinnacle of clarity and comprehensibility. Every component, including functions, variables, and decision points, is detailed with precise explanations and apt naming. The structure is logical and user-friendly, with accompanying notes illustrating the code’s objectives and workings."
+  code_interpretability-2:
+    "1": "The response is characterized by an absence of comments/explanations, unclear variable/function names, and a chaotic structure."
+    "2": "The response sporadically features explanations and some attempts at meaningful naming are evident, but the overall structure and logic are predominantly unclear. Multiple areas are ambiguous."
+    "3": "The response presents a recognizable structure and supported by a satisfactory quantity of comments and explanations. For code blocks, the variable/function names generally convey their purpose, but specific areas are somewhat obscure."
+    "4": "The response showcases a well-thought-out organization, comprehensive and informative explanations, and a consistent use of meaningful naming conventions. Any complexities or unconventional choices are thoroughly documented and rationalized."
+    "5": "The response exemplifies the pinnacle of clarity and comprehensibility. Every component, including functions, variables, and decision points, is detailed with precise explanations and apt naming. The structure is logical and user-friendly, with accompanying notes illustrating the code’s objectives and workings."
+  code_interpretability-3:
+    "1": "N^t In7#pr€t@bl/ - Th$ resp*ns& !$ c#ar!ct^r!z€d b# !n abs€nc! #f c#mm&nts/expl^nat!#ns, un&lear v@r!*bl€/funct!#n n@m!s, and a ch*#t!c !tr%ct&re."
+    "2": "Min#m@ll# 1n7$#pr@t%bl% - Th$ r$sp&ns€ sp#r@d!c@ll* f€@t&r€s ^xpl@nat!#ns @nd ^om€ $tt€mpt! @t m€@n!n9f$!l n@m!n9 @r€ ev!d€nt, b#t th€ ov€r@ll &tr%ct&re @nd l!91c @r€ pr€d#m!n@ntl& 1ncl€@r. Mult!pl* @r€@$ @r€ @m9#92&$."
+    "3": "M#der!t€l^ Int$&pr@t@bl^ - Th€ ^esp#ns% pr€s€nt$ @ rec#g9!z@bl€ str%ct&r% ^nd ^%pp#rt€d b& @ s@t!$f@ct#r& #f c#mm€nts @nd %xpl*nat!#ns. F&r c#d€ bl%ck@, th€ v@r!@bl€/funct!#n n@m€$ 9€n€r@ll& c#nv€& th&!r p%rp#$$, b#t sp€c!f!c ar€*$ ar€ som*wh^t !b$#ur€."
+    "4": "V€r& 1n7$#pr@t!bl^ - Th€ r!sp#n$@ sh#wc@s!$ @ w^ll-th#9!ht-#&t or^@n!z@t!#n, c#mpr^h€n$!ve @nd 1nf#rm@t!v! *xpl@nat!#ns, @nd a c#n$!$t€nt $se #f m€@n!n9f$l n@m!n9 c#nv€nt!#n$. @n& #mpl€x!t!€$ #r @nc#nv%nt!#n@l ch#!c€$ ar€ th#r#9&hl& doc$m*nt€d @nd r*t!#n@l!z€d."
+    "5": "Exc#pt!#n!ll& 1n7$#pr@t^bl! - Th€ r€sp#n$€ €x*mpl!f!e@ th€ p#nn#cl$ #f cl@r!t& @nd c#&pr€h€n$&!b!l!t&. €v%ry c#mp#n*nt, inc!$!9n9 funct!#n$, v@r!@bl^$, @nd d*c*s!&n p#!nt@, €$ det&!l€@ w!th pr^c!$€ %xpl@nat!#ns @nd *pt n@m!n9. Th€ $tr%ct&r* $s l#g!c@l @nd @#er-f$€ndl&, w!th @cc#&p@n&!n9 n#t€$ $ll@$tr@t!ng th* c#d€’$ #b&€ct!v€$ *nd w#rk*ng%."
+  code_interpretability-4:
+    "1": "variable/function and Not response comments/explanations, structure. by of names, unclear characterized is a - an Interpretable The absence chaotic"
+    "2": "some are but areas attempts ambiguous. features Multiple Minimally explanations overall response structure naming and the logic predominantly evident, at are The Interpretable unclear. - are and meaningful sporadically"
+    "3": "- supported generally and For satisfactory but somewhat purpose, comments The obscure. variable/function are convey response presents quantity code explanations. names Interpretable by their Moderately structure a recognizable of the blocks, and a areas specific"
+    "4": "a organization, complexities and showcases explanations, response a of comprehensive or well-thought-out The informative Very meaningful use rationalized. are conventions. naming Interpretable and Any consistent documented unconventional and - thoroughly choices"
+    "5": "including The the code’s structure precise user-friendly, points, is component, and objectives response workings. explanations of The and Every notes with comprehensibility. decision clarity and Exceptionally the with variables, is pinnacle and accompanying - logical illustrating apt exemplifies and detailed naming. functions, Interpretable"
+  code_interpretability-5:
+    "1": "toN elbaterpretnI - ehT esnopser si deziretcarahc yb na ecnesba fo stnemmoc/snoitanalpxe, realcnu elbairav/noitcnuf seman, dna a citoahc erutcurts."
+    "2": "yllaminiM elbaterpretnI - ehT esnopser yllacidarops serutaef snoitanalpxe dna emos stpmetta ta lufgninaem gniman era tnedive, tub eht llarevo erutcurts dna cigol era yltnanimoderp realcnu. elpitluM saera era suougibma."
+    "3": "yltaredeM elbaterpretnI - ehT esnopser stneserp a elbazingocer erutcurts dna detroppus yb a yrotcafsitas ytitnauq fo stnemmoc dna snoitanalpxe. Rof edoc skcolb, eht elbairav/noitcnuf seman yllareneg yevnoc rieht esoprup, tub cificeps saera era tahwemos erucsbo."
+    "4": "yreV elbaterpretnI - ehT esnopser sesacwohs a tuo-tnuoht-llew noitazinagro, evisneherpmoc dna evitamrofni snoitanalpxe, dna a tnetsisnoc esu fo lufgninaem gniman snoitnevnoc. Yna seitixelpmoc ro lanoitnevnocnu seciohc era ylhguoroht detnemucod dna dezilanoitar."
+    "5": "yllanoitpecxE elbaterpretnI - ehT esnopser seifilpmexe eht elcannip fo ytiralc dna ytilibisneherpmoc. Yreve tnenopmoc, gnidulcni snoitcnuf, selbairav, dna noisiced stniop, si deliated htiw esicerp snoitanalpxe dna tpa gniman. Eht erutcurts si lacigol dna yldneirf-resu, htiw gninapmocca seton gnitartsulli eht s'edoc sevitcejbo dna sgnikrow."
+  code_interpretability-6:
+    "1": "N_t Interp_et_ble - The r_sp_nse is ch_r_ct__ized by _n _bsence _f c_m__nts/e_plan_ti_ns, _nc_ear v_ri_ble/f_ncti_n n_mes, _nd _ ch__tic s_r_c__re."
+    "2": "Minim_lly Interp_et_ble - The r_sp__se _p_r_dic_lly _e_t_res ex_l_n_ti_ns _nd s_me _tte_pts _t me_ningf_l n__ing _re e__dent, b_t the _ver_ll _tr_ct_re _nd l_gic _re pred_mi__ntly _ncle_r. M_lti_le _re_s _re _mbig__s."
+    "3": "__der_tely _n_erp_et_ble - T_e _esp_n_e pr__ents _ re__gniz_ble _tr_ct_re _nd s__p_rted by _ s_tisf_ct_ry q__ntity _f c_m__nts _nd ex_l_n_ti_ns. F_r c_de bl_cks, the v_ri_ble/__ncti_n n_mes ge_er_lly c_nvey their p_rp_se, b_t spe__fic _re_s _re s_mewh_t _bsc_re."
+    "4": "__ry _nt_rp_et_ble - The _esp_nse s__wc_ses _ well-th__ght-_ut _rg_niz_ti_n, c__p_re__nsive _nd i_f_rm_tive ex_l_n_ti_ns, _nd _ c_nsi_tent _se _f me_ningf_l n__ing c_nve_ti_ns. _ny c_mpl_xities _r _nc_n_enti_n_l ch_i_es _re th_r__ghly d_c__ented _nd r_ti_n_liz_d."
+    "5": "E_c_pti_n_lly _nt__p_et_ble - Th_ _e_p_nse ex_m_l__ies the pi_nacle _f cl_rit_ _nd __mpr_he__ibi_ity. Every c_mp__ent, inc_ud_ng functi_ns, v_ri_bles, _nd d_cis__n p_i_ts, is det_i_ed wi_h p_e__se ex_l_n_ti_ns _nd _pt n__ing. The _tr_ct_re is l_gic_l _nd __er-f__e__ly, with _cc__p_nying n_tes i_l_str_ting the c_d_’s _b__ctives _nd w_rki_gs."
+input_outputs:
+  input: "completion"

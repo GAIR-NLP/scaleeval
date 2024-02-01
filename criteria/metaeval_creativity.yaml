@@ -1,0 +1,39 @@
+criteria:
+  creativity:
+    "1": "Beginning - The response is notably lacking in originality, depth, and coherence. It demonstrates a fundamental misunderstanding of the topic, predominantly featuring generic or clichéd thoughts."
+    "2": "Developing - The response reveals faint traces of originality, but ideas are largely underdeveloped or superficial. While there are attempts at creative thinking, they often revert to commonplace concepts. The response may deviate from the main topic."
+    "3": "Competent - The response exhibits a blend of conventional and innovative ideas. It showcases evident creative thinking and a reasonable infusion of original insights. While the response remains largely on-topic, certain areas could be further enriched through deeper exploration."
+    "4": "Proficient - The response includes imaginative and innovative thoughts, reflecting a depth of thinking and divergent exploration. It is content-rich and structured coherently, highlighting a well-considered and effectively executed creative process."
+    "5": "Mastery - The response stands as a beacon of creativity, weaving together profound insights, thoughtful concepts, and astute judgement. Every element of the content radiates originality. The delivery is articulate, compelling, and showcases the pinnacle of creative thought."
+  creativity-2:
+    "1": "The response is notably lacking in originality, depth, and coherence. It demonstrates a fundamental misunderstanding of the topic, predominantly featuring generic or clichéd thoughts."
+    "2": "The response reveals faint traces of originality, but ideas are largely underdeveloped or superficial. While there are attempts at creative thinking, they often revert to commonplace concepts. The response may deviate from the main topic."
+    "3": "The response exhibits a blend of conventional and innovative ideas. It showcases evident creative thinking and a reasonable infusion of original insights. While the response remains largely on-topic, certain areas could be further enriched through deeper exploration."
+    "4": "The response includes imaginative and innovative thoughts, reflecting a depth of thinking and divergent exploration. It is content-rich and structured coherently, highlighting a well-considered and effectively executed creative process."
+    "5": "The response stands as a beacon of creativity, weaving together profound insights, thoughtful concepts, and astute judgement. Every element of the content radiates originality. The delivery is articulate, compelling, and showcases the pinnacle of creative thought."
+  creativity-3:
+    "1": "B@g!#n(ng - Th$ r*spon@e !s n(ta)ly l$ck@ng !n &r%g?na#ity, d?pth, and c()h$r$n(€. #t d@m(nstrat)s a f€ndam$ntal m?s#nd!rs@and?ng of th> t()!c, pr$d()m<nan<ly f?at&r!ng g&n?r!c or cl$ch*d th(>ghts."
+    "2": "The &e#pon$e r@ve!ls f(!nt t@*c*s of or(g!nality, but >d<as are (arg#ly u#d(rde&>loped or (uperf!<!al. W@#le *her( are at()mpts at (%&at$ve !h*nk*ng, th(y $f%en r$v*rt to ?#mm<n?lace c&nce>ts. The r?sp*?se ?ay d<v!ate f>om the ma(n top*c."
+    "3": "Th@ r>sp)nse *x*b!ts a bl#nd of c<nvent!(nal and ?nn*vat!ve @d*as. It sh*wc$s $v!dent c&eat?ve th(€k&ng and a ?eas%na@le !nf*s!?n of or&g$nal #ns@ghts. !h!le the ?e*p*nse *ema!ns l$rg#ly o!-top@c, %erta&n #r$as c(u%d be f?rth#r e*rch#d @hr$ugh @$ep(r exp?<rat>*n."
+    "4": "Th# *esp(nse &n%l#des !ma?&#at&ve and ?nnovat!ve th#u*hts, %efl*ct*ng a d>pth of th<nk&ng and d!ve$gent e?*lorat!&n. It *s c(nt*nt-r!ch and s*r#ctur>d coh?rently, h?ghl<ght!ng a w>ll-c<ns!d*red and *ffect!vely $xecut@d creat&ve pr*c?ss."
+    "5": "@h3 #?sp&nse st#nds as a <eac&n of cr>at!v*ty, w$av!ng t0*eth>r prof#und >ns!ghts, th*ughtful c?ncepts, and a?st*ute judg(m$nt. ?very *lement of the c*nt>nt rad&ates or!g!<nality. The %el*very !s art>culate, compe(+!ng, and s(#wc@ses the p>n<acle of c#eat!ve th*ught."
+  creativity-4:
+    "1": "misunderstanding a notably lacking in depth, response and generic The originality, predominantly is Beginning features or of clichéd thoughts. fundamental the topic, demonstrates a"
+    "2": "Developing ideas are faint traces largely originality, The response of but reveals underdeveloped of or superficial. creative at thinking, While attempts are there often they commonplace to revert concepts. main from the deviate response may topic."
+    "3": "Competent - conventional The a blend exhibits response and ideas. of innovative It creative thinking evident showcases a infusion and of original reasonable insights. response While the remains on-topic, largely areas could certain be further through enriched deeper exploration."
+    "4": "Proficient divergent - The includes response and thoughts, imaginative innovative reflecting depth thinking a of structured exploration. and executed effectively content-rich It is coherently, a well-considered highlighting and creative process."
+    "5": "Mastery - stands response The as beacon creativity, a of together weaving profound judgement the pinnacle insights, thoughtful concepts, and astute. Every radiates originality. element of the content The delivery articulate, is compelling, and showcases of creative thought."
+  creativity-5:
+    "1": "gninnigeB - ehT esnopser si ylbaton gnikcal ni ytilanigiro, htped dna ecnerehoc. tI setartsnomed a latnemadnuf gnidnatsrednusim fo eht cipot, yltnanimoderp gnirutaef cireneg ro déhcilc sthguoht."
+    "2": "gnipoleveD - ehT esnopser slaever tniaf secart fo ytilanigiro, tub saedi era ylegral repolevedrednu ro laicifrepus. elihW ereht era stpmetta ta evitaerc gnikniht, yeht netfo trever ot ecalpnommoc stpecnoc. ehT esnopser yam etaived morf eht niam cipot."
+    "3": "tnetepmoC - ehT esnopser stibihxe a dnelb fo lanoitnevnoc dna evitavonni saedi. tI sesacwohs tnedive evitaerc gnikniht dna a elbanosaer noisufni fo lanigiro sthgisni. elihW eht esnopser sniamer ylegral no-cipot, niatrec saera dluoc eb rehtruf dehcirne hguorht repeed noitarolpxe."
+    "4": "tneiciforP - ehT esnopser sedulcni evitanigami dna evitavonni sthguoht, gnitcelfer a htped fo gnikniht dna tnegrevid noitarolpxe. tI si hcir-txetnoc dna derutcurts yltnerehoc, gnithgilhgih a deredisnoc-llew dna ylevitceffe detucexe evitaerc ssecorp."
+    "5": "yretsaM - ehT esnopser sdnats sa a nocaeb fo ytivitaerc, gnivaew rehtegot dnuoforp sthgisni, lufthguoht stpecnoc, dna etutsa tnemegduj. yrevE tnemele fo eht tnetnoc setaidar ytilanigiro. ehT yreviled si etalucitra, gnillepmoc dna sesacwohs eht elcannip fo evitaerc thguoht."
+  creativity-6:
+    "1": "N__ g_n__n!g__g - Th_ _e__o_s_ _s n_t_bly l_ck_ng _n _r_g_n_l_ty, d_p_h, _nd coh_r_nc_. _t d_m_nst__t_s _ f_nd_m_nt_l m_s_nd_rst_nd_ng _f th_ t_p_c, pr_d_m_n_ntly f__t_r_ng g_n_r_c _r cl_ch_d th__ghts."
+    "2": "__v_l_p_ng - Th_ _e__o_s_ r_v__ls f_int tr_c_s of or_g_n_lity, b_t _d__s _r_ l_rg_ly _nd_rd_v_l_p_d _r s_p_rf_c__l. Wh_l_ th_r_ _r_ att_mpts _t cre_t_v_ th_nk_ng, th_y _ft_n r_v_rt t_ c_mm_nplac_ c_nc_pts. Th_ re__o_s_ m_y d_v__t_ from th_ m__n t_p_c."
+    "3": "The res__ns_ _xh_b_ts a bl_nd _f c_nv_nti_n_l _nd inn_v_t_v_ _d__s. _t sh_wc_s _v_d_nt cr__t_v_ th_nk_ng _nd _ r__s_n_bl_ _nf_s__n _f _r_g_n_l _ns_ghts. Wh_l_ th_ r_s__ns_ r_m__ns l_rg_ly on-t_p_c, c_rt__n _r__s c__ld b_ f_rth_r _nr_ch_d thr__gh d__p_r expl_r_t__n."
+    "4": "Th_ r_sp_ns_ inc_d_s imag_n_t_v_ _nd _nn_v_t_ve th__ghts, r_fl_ct_ng _ d_pth _f th_nk_ng _nd d_v_rg_nt _xpl_r_ti_n. _t is c_nt_nt-r_ch _nd str_ct_r_d c_h_r_ntly, h_ghl_ght_ng _ w_ll-c_ns_d_r_d _nd eff_ct_v_ly _x_c_t_d cr_et_v_ pr_c_ss."
+    "5": "_h_ r_s__nse st_nds _s a b__c_n _f cre_t_v_ty, w__v_ng t_g_th_r pr_fo_nd ins_ghts, th__ghtf_l c_nc_pts, _nd _st_t_ j_dgm_nt. _v_ry el_m_nt _f th_ c_nt_nt r_d__t_s _r_g_n_l_ty. Th_ d_l_v_ry _s art_c_l_t_, c_mp_ll_ng, _nd sh_wc_s_s th_ p_nn_cl_ _f cr__t_v_ th__ght."
+input_outputs:
+  input: "completion"

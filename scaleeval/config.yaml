@@ -1,0 +1,18 @@
+evaluation:
+  submission1: gpt3.5 # gpt3.5, claude, bard
+  submission2: claude-instant # gpt3.5, claude, bard
+  submission1_path: "responses/gpt3.5/brainstorming.jsonl"
+  submission2_path: "responses/claude-instant/brainstorming.jsonl"
+  metric_path: "../criteria/metaeval_helpfulness.yaml"
+  speaker1: gpt-4-1106-preview # insert speaker1 name here
+  speaker2: claude-2 # insert speaker2 name here
+  speaker3: gpt-3.5-turbo-1106 # insert speaker3 name here
+  results_path: results/gpt3.5_vs_claude/helpfulness/multiagent/brainstorming.jsonl # change to desired path
+  speaker1_score_path: results/gpt3.5_vs_claude/helpfulness/gpt4_turbo/brainstorming.jsonl
+  speaker2_score_path: results/gpt3.5_vs_claude/helpfulness/claude2/brainstorming.jsonl
+  speaker3_score_path: results/gpt3.5_vs_claude/helpfulness/gpt35_turbo/brainstorming.jsonl
+
+discussion:
+  num_round: 2
+  equal_score: True # True, False
+
