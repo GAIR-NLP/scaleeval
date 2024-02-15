@@ -1,6 +1,6 @@
 evaluation:
-  submission1: gpt3.5 # gpt3.5, claude, bard
-  submission2: claude-instant # gpt3.5, claude, bard
+  submission1: gpt3.5 # gpt3.5, claude, gemini
+  submission2: claude-instant # gpt3.5, claude, gemini
   submission1_path: "responses/gpt3.5/brainstorming.jsonl"
   submission2_path: "responses/claude-instant/brainstorming.jsonl"
   metric_path: "../criteria/metaeval_helpfulness.yaml"

@@ -1,0 +1,202 @@
+[
+    {
+        "ID": 1,
+        "Score": "2",
+        "Reasoning": "Based on the given criteria, both submissions demonstrate an understanding of the problem. Submission 1 acknowledges the lack of specific information about the actual budgets but correctly identifies the relationship between Navina's and her sister's budgets. Submission 2 assumes the sister's budget as \"x\" and correctly calculates Navina's budget as \"x + $30.\"\n\nHowever, Submission 2 provides a clearer and more systematic approach by defining the sister's budget as \"x\" and then calculating Navina's budget as \"x + $30.\" Submission 1, on the other hand, does not explicitly define the sister's budget as a variable and lacks a systematic approach to calculating Navina's budget.\n\nTherefore, based on the given criteria, Submission 2 is better.\n\n2"
+    },
+    {
+        "ID": 2,
+        "Score": "2",
+        "Reasoning": "Based on the given criteria, both submissions will be evaluated based on their mathematical reasoning, accuracy, and clarity of explanation. \n\nSubmission 1:\n- The response demonstrates a sound understanding of the definition of odd numbers and uses it to show that the product of two odd numbers is odd.\n- The explanation is clear and step-by-step, with a logical progression of the argument.\n- The response aligns closely with the mathematical principles and provides a systematic approach to proving the statement.\n- The explanation is accurate and coherent, with a clear demonstration of the reasoning behind the statement.\n\nSubmission 2:\n- The response correctly identifies the definition of odd and even numbers and provides a counter-example to show that the given statement is not universally true.\n- The explanation is clear and coherent, with a logical progression of the argument.\n- The response aligns with the mathematical principles and offers a systematic approach to disproving the statement.\n- The explanation is accurate and provides a counter-example to highlight the incorrectness of the statement.\n\nEvaluation:\nBoth submissions demonstrate a competent understanding of the mathematical principles and provide clear explanations. However, Submission 2 provides a counter-example to disprove the given statement, which highlights a deeper understanding of the concept. Therefore, Submission 2 is better.\n\n2"
+    },
+    {
+        "ID": 3,
+        "Score": "0",
+        "Reasoning": "Based on the provided criteria, both submissions demonstrate a competent understanding of the mathematical principles involved. Both submissions correctly apply the substitution method to find the value of f(2) and arrive at the correct answer of 39. However, both submissions lack detailed explanations or insights, which would have elevated them to a higher level according to the criteria. \n\nGiven the competent level of understanding and the absence of significant errors in either submission, it is difficult to distinguish one as better than the other based solely on the provided criteria. Therefore, neither submission is significantly better than the other based on the given criteria.\n\n0"
+    },
+    {
+        "ID": 4,
+        "Score": "0",
+        "Reasoning": "Based on the given criteria, I will evaluate the two submissions.\n\nSubmission 1:\n- The response demonstrates a fundamental lack of mathematical reasoning. The solution is entirely incorrect or unrelated to the given problem. It misinterprets or entirely overlooks the essential mathematical principles underlying the user's question.\n\nSubmission 2:\n- The response exhibits some understanding of the relevant mathematical principles but is marred by significant errors in approach or computation. Any glimpse of correct method or logic is overshadowed by misapplication, ambiguity, or omission of critical steps.\n\nBased on the evaluation, neither submission fully meets the criteria for a competent or proficient solution. However, Submission 2 demonstrates a slightly better understanding of the mathematical principles involved in the problem.\n\nTherefore, I choose:\n0"
+    },
+    {
+        "ID": 5,
+        "Score": "1",
+        "Reasoning": "Based on the given criteria, Submission 1 demonstrates a competent understanding of the mathematical nature of the problem. It correctly sets up the equation to find the distance between the sun and Earth during a solar eclipse. However, it falls short in calculating the duration of the eclipse due to the lack of information about the speed at which the sun travels around the Earth.\n\nSubmission 2, on the other hand, exhibits a developing understanding of the problem. It correctly identifies that the sun does not travel around the Earth during a solar eclipse and provides a formula for finding the distance between the sun and Earth. However, it fails to address the calculation of the duration of the eclipse, stating that it is impossible to determine without more specific information.\n\nGiven the criteria provided, Submission 1 is better.\n\n1"
+    },
+    {
+        "ID": 6,
+        "Score": "2",
+        "Reasoning": "Based on the given criteria, both submissions have some merit but also contain errors. Submission 1 demonstrates a basic understanding of matrix transposition and attempts to provide a proof, but it contains errors in the application of the distributive property and the Python example is not directly related to the question. Submission 2 correctly identifies the order of transposition for the product of matrices but lacks a detailed explanation or proof.\n\nConsidering the criteria, Submission 2 is more aligned with the \"Competent\" level as it correctly states the order of transposition for the product of matrices, albeit with limited explanation. Submission 1, on the other hand, falls under the \"Developing\" level due to the errors in the application of the distributive property and the lack of precision in the Python example.\n\nTherefore, based on the given criteria, Submission 2 is better.\n\n2"
+    },
+    {
+        "ID": 7,
+        "Score": "1",
+        "Reasoning": "Based on the provided criteria, both submissions demonstrate a competent level of understanding. However, Submission 1 is more detailed and explicitly separates the columns with \"|\", providing a clearer presentation of the information. Submission 2 lacks the clear separation of columns, which could lead to potential confusion. Therefore, Submission 1 is better.\n\n1"
+    },
+    {
+        "ID": 8,
+        "Score": "1",
+        "Reasoning": "Based on the provided criteria, both submissions demonstrate a competent understanding of the mathematical principles underlying vector normalization. They both accurately describe the process of normalizing a vector by dividing each component by the vector's magnitude. However, Submission 1 provides a more detailed explanation, including a pseudocode algorithm for normalization and a clear example. Submission 2, although accurate, lacks the same level of detail and clarity in its explanation. Therefore, based on the criteria, Submission 1 is better.\n\n1"
+    },
+    {
+        "ID": 9,
+        "Score": "1",
+        "Reasoning": "Based on the criteria provided, here is the evaluation of the two submissions:\n\nSubmission 1:\nThe response demonstrates a fundamental understanding of the mathematical principles involved in calculating variations on a table. It provides a clear and systematic approach to the solution, using the appropriate formula and providing a detailed explanation. However, it lacks in-depth insights and alternative methods.\n\nSubmission 2:\nThe response exhibits a sound understanding of the mathematical nature of the problem and employs a method based on permutations. It outlines a clear approach to the solution and provides a detailed explanation of the reasoning behind the calculation. However, it contains a minor error in the formula for calculating the total number of variations.\n\nBased on this evaluation, both submissions have their strengths and weaknesses. However, Submission 1 is slightly better due to its accuracy and systematic approach.\n\nTherefore, the better submission is \"1\"\n\n1"
+    },
+    {
+        "ID": 10,
+        "Score": "0",
+        "Reasoning": "Based on the given criteria, both submissions demonstrate a fundamental lack of mathematical reasoning. They both incorrectly calculate the amount Marley would have when she is 22 years old. They both overlook the essential mathematical principles underlying the question, leading to an entirely incorrect solution. Therefore, neither submission meets the standard of competence outlined in the criteria. \n\n0"
+    },
+    {
+        "ID": 11,
+        "Score": "2",
+        "Reasoning": "Based on the given criteria, both submissions have used the correct method to calculate the cost of fuel for the journey. However, Submission 2 provides a clearer and more detailed explanation of the steps involved, including the conversion of pence to pounds and the adjustment for heavy traffic. Therefore, Submission 2 demonstrates a more competent understanding of the mathematical principles and presents a more coherent and accurate solution.\n\n2"
+    },
+    {
+        "ID": 12,
+        "Score": "2",
+        "Reasoning": "Based on the given criteria, both submissions demonstrate a competent understanding of the mathematical principles involved. They both correctly add up the profit percentages for each quarter and divide by the number of quarters to find the average profit percentage over the period of time. \n\nSubmission 1 follows the correct steps and arrives at the correct answer, providing a clear and systematic approach to the solution. However, it lacks detailed explanations or insights into the underlying concepts.\n\nSubmission 2 also follows the correct steps and arrives at the correct answer, with clear and systematic reasoning. It may have slightly clearer explanations and insights into the underlying concepts compared to Submission 1.\n\nTherefore, based on the criteria, Submission 2 is slightly better as it provides slightly clearer explanations and insights into the underlying concepts.\n\n2\n\n"
+    },
+    {
+        "ID": 13,
+        "Score": "1",
+        "Reasoning": "Based on the given criteria, here is the step-by-step evaluation of the two submissions:\n\nSubmission 1:\n- The response demonstrates a clear understanding of the mathematical principles underlying the problem.\n- It outlines a systematic approach to the solution and provides detailed calculations.\n- The solution is accurate and coherent, aligning with the mathematical nature of the problem.\n- The explanation is clear and methodical, enhancing the user's comprehension of the subject.\n\nSubmission 2:\n- The response does not engage with the mathematical problem and states that it cannot assist with the question.\n\nBased on the evaluation, Submission 1 is better.\n\n1"
+    },
+    {
+        "ID": 14,
+        "Score": "2",
+        "Reasoning": "Based on the given criteria, Submission 2 is better.\n\nSubmission 1: The response demonstrates a fundamental lack of mathematical reasoning and misinterprets the problem by adding the delay to the stopover time.\n\nSubmission 2: The response exhibits some understanding of the relevant mathematical principles, correctly computes the total travel time, and then explains how the delay would affect the total travel time.\n\nTherefore, Submission 2 better aligns with the criteria provided.\n\n2"
+    },
+    {
+        "ID": 15,
+        "Score": "1",
+        "Reasoning": "Based on the given criteria, Submission 1 is better.\n\nStep-by-step explanation:\n1. Submission 1 correctly applies the formula for calculating the tip amount by multiplying the total bill by the tip percentage, demonstrating a fundamental understanding of the mathematical reasoning.\n2. It provides a clear breakdown of the calculation and accurately computes the tip amount.\n3. Although it lacks the suggestion to round the tip amount, it fulfills the criteria for a Competent response by reflecting a sound understanding of the mathematical nature of the problem and employing mostly accurate methods.\n\nTherefore, based on the criteria provided, Submission 1 is better.\n\n1"
+    },
+    {
+        "ID": 16,
+        "Score": "0",
+        "Reasoning": "Both submissions correctly use the distance formula to find the length of the line segment. They both accurately substitute the given endpoints into the formula and perform the calculations correctly. Both submissions provide clear and systematic steps, and they arrive at the correct answer of 10 units.\n\nBased on the given criteria, both submissions demonstrate a competent level of understanding of the mathematical principles involved in solving the problem. They employ accurate methods and derive a plausible solution, albeit with minor computational errors or omissions.\n\nTherefore, both submissions are equally competent according to the provided criteria.\n\n0"
+    },
+    {
+        "ID": 17,
+        "Score": "2",
+        "Reasoning": "Based on the given criteria, Submission 2 is better.\n\nExplanation:\nSubmission 1 lacks a step-by-step explanation and does not provide a clear rationale for the formula. It fails to demonstrate a fundamental understanding of the mathematical principles underlying the sequence.\n\nSubmission 2, on the other hand, exhibits a sound understanding of the arithmetic nature of the sequence, providing a clear and systematic approach to deriving the formula. It includes a step-by-step explanation, computes the nth term, and presents a table to illustrate the sequence, aligning closely with the mathematical principles relevant to the question.\n\nTherefore, based on the criteria provided, Submission 2 demonstrates a competent understanding of the mathematical nature of the problem.\n\n2"
+    },
+    {
+        "ID": 18,
+        "Score": "1",
+        "Reasoning": "Based on the given criteria, Submission 1 is better.\n\nEvaluation:\n1. Beginning: Submission 1 correctly translates the first-order logic sentence into natural language, while Submission 2 lacks clarity and precision.\n2. Developing: Submission 1 demonstrates a fundamental understanding of the mathematical principles and provides multiple accurate translations, whereas Submission 2's translation is marred by ambiguity and lacks precision.\n3. Competent: Submission 1 reflects a sound understanding of the mathematical nature of the problem and employs accurate methods, while Submission 2's explanation is imprecise and lacks clarity.\n4. Proficient: Submission 1 aligns closely with the mathematical principles, offering clear and systematic translations, whereas Submission 2 falls short in providing in-depth insights and clarity.\n5. Mastery: Submission 1 delivers accurate and insightful translations, enhancing the user's comprehension of the subject, while Submission 2 lacks precision and comprehensive understanding.\n\nTherefore, Submission 1 is better.\n\n1"
+    },
+    {
+        "ID": 19,
+        "Score": "1",
+        "Reasoning": "Based on the given criteria, I will evaluate the two submissions. \n\nSubmission 1:\nThe solution provided is accurate and aligns with the mathematical principles of solving a Sudoku puzzle. The steps are clear, and the explanations are detailed, providing a systematic approach to solving the puzzle. The response also offers insights into the process of solving Sudoku puzzles, enhancing the user's comprehension of the subject.\n\nSubmission 2:\nThe solution provided contains significant errors, as evident from the repeated numbers in rows and columns. It misinterprets the essential mathematical principles underlying the user's question, and the solution is entirely incorrect.\n\nBased on the evaluation, I find Submission 1 to be better.\n\n1"
+    },
+    {
+        "ID": 20,
+        "Score": "1",
+        "Reasoning": "Based on the given criteria, I evaluated the submissions as follows:\n\nSubmission 1: 4 (Proficient)\nSubmission 2: 3 (Competent)\n\nExplanation:\nSubmission 1 correctly calculates the subtotal using the given function for each item, demonstrating a systematic approach to the solution. However, it lacks detailed explanations or insights into the underlying mathematical principles.\n\nSubmission 2 presents the completed table and provides a clear explanation of how the subtotal was calculated. While the explanation is clear and the solution is accurate, it falls slightly short in providing in-depth insights or exploring alternative methods.\n\nTherefore, based on the evaluation criteria, Submission 1 is better.\n\n1"
+    },
+    {
+        "ID": 21,
+        "Score": "2",
+        "Reasoning": "Based on the given criteria, Submission 2 is better.\n\nFirst, Submission 1 demonstrates a lack of understanding of the mathematical principles underlying the problem. It incorrectly factors the equation and provides an incorrect solution for the quadratic factor. On the other hand, Submission 2 exhibits a better understanding by correctly factoring the equation and providing accurate solutions, including the complex roots.\n\nTherefore, based on the criteria provided, Submission 2 is better.\n\n2"
+    },
+    {
+        "ID": 22,
+        "Score": "0",
+        "Reasoning": "Based on the criteria provided, both submissions demonstrate a fundamental lack of mathematical reasoning. They either misinterpret or entirely overlook the essential mathematical principles underlying the given problem. In both cases, the reasoning used to prove the statement is flawed, as it fails to accurately address the conditions specified in the statement.\n\n0"
+    },
+    {
+        "ID": 23,
+        "Score": "1",
+        "Reasoning": "Based on the given criteria, both submissions are accurate and demonstrate a sound understanding of the mathematical principles involved. Both submissions correctly use the fact that the square of any real number is non-negative to prove the given statement. They both provide clear and systematic approaches to the solution without significant errors or omissions. However, Submission 1 provides a more detailed step-by-step explanation of completing the square and its relationship to the non-negativity of the expression, while Submission 2 is more concise in its approach. Therefore, based on the criteria provided, Submission 1 is slightly better as it offers a more detailed and comprehensive explanation of the mathematical reasoning.\n\n1"
+    },
+    {
+        "ID": 24,
+        "Score": "2",
+        "Reasoning": "Based on the given criteria, I will evaluate the two submissions. \n\nSubmission 1:\nThis submission correctly calculates the tip amount using the given percentage and total bill. However, it lacks a detailed explanation and may benefit from providing more context or reasoning.\n\nSubmission 2:\nThis submission also correctly calculates the tip amount and provides a clear step-by-step explanation, including the use of the decimal equivalent of the percentage. It demonstrates an understanding of the relevant mathematical principles and provides a clear and systematic approach to the solution.\n\nBased on the evaluation criteria, Submission 2 is better.\n\n2"
+    },
+    {
+        "ID": 25,
+        "Score": "2",
+        "Reasoning": "Based on the given criteria, Submission 1 demonstrates a fundamental lack of mathematical reasoning. The solution provided misinterprets the problem and arrives at an entirely incorrect answer. Submission 2, while flawed, exhibits some understanding of the relevant mathematical principles, but it is marred by significant errors in approach and computation. However, it does show some attempt at applying the correct method and logic.\n\nTherefore, based on the criteria provided, Submission 2 is better.\n\n2"
+    },
+    {
+        "ID": 26,
+        "Score": "0",
+        "Reasoning": "Based on the given criteria, both submissions exhibit a fundamental lack of mathematical reasoning. Submission 1 incorrectly calculates the cost per hour without considering the total number of lessons received, while Submission 2 incorrectly calculates the total number of hours received without considering the payment made. Both submissions fail to demonstrate a sound understanding of the mathematical nature of the problem and misapply critical steps in their solutions.\n\nTherefore, neither submission demonstrates a competent or proficient level of mathematical reasoning based on the given criteria.\n\n0"
+    },
+    {
+        "ID": 27,
+        "Score": "2",
+        "Reasoning": "Based on the given criteria, Submission 2 is better.\n\nStep-by-step evaluation reasoning according to the criteria:\n1. Beginning: Submission 1 misinterprets the problem, as it calculates the total cost incorrectly and does not demonstrate a fundamental understanding of mathematical reasoning.\n2. Developing: Submission 2 exhibits some understanding of the relevant mathematical principles, accurately calculating the total cost and demonstrating a basic grasp of the problem.\n3. Competent: Submission 2 reflects a sound understanding of the mathematical nature of the problem, employing mostly accurate methods and deriving a plausible solution with minor computational errors.\n4. Proficient: Submission 2 closely aligns with the mathematical principles relevant to the question, providing a clear and systematic approach to the solution with logical coherence and accuracy.\n5. Mastery: Neither submission reaches the level of mastery.\n\nTherefore, based on the evaluation, Submission 2 is better.\n\n2"
+    },
+    {
+        "ID": 28,
+        "Score": "0",
+        "Reasoning": "Based on the given criteria, both submissions exhibit a competent understanding of the mathematical principles involved. They both correctly calculate the total cost of the cookies and the change Carl would receive. However, both submissions contain minor computational errors in the final answer. Submission 1 and Submission 2 both demonstrate a clear understanding of the problem and employ mostly accurate methods to derive plausible solutions. They provide clear and systematic approaches to the solution, but fall short in providing in-depth insights or exploring alternative methods. \n\nTherefore, the evaluation based on the criteria leads to the conclusion that neither submission is significantly better than the other.\n\n0"
+    },
+    {
+        "ID": 29,
+        "Score": "0",
+        "Reasoning": "Based on the given criteria, both submissions demonstrate a fundamental lack of mathematical reasoning and misinterpret the essential principles of the problem. Both submissions provide incorrect solutions and do not align with the mathematical nature of the question. The explanations and computations in both submissions are marred by significant errors, misapplication, and ambiguity, overshadowing any glimpse of correct method or logic. Therefore, neither submission is better according to the provided criteria.\n\n0"
+    },
+    {
+        "ID": 30,
+        "Score": "2",
+        "Reasoning": "Based on the given criteria, I will evaluate the two submissions:\n\nSubmission 1:\nThe response demonstrates a fundamental lack of mathematical reasoning. The solution is entirely incorrect as it misinterprets the relationships between the ages of the girls.\n\nSubmission 2:\nThe response exhibits some understanding of the relevant mathematical principles but is marred by significant errors in approach or computation. While it correctly identifies the relationships between the ages of the girls, it contains errors in the final computation.\n\nEvaluation:\nBoth submissions have significant errors, but Submission 2 demonstrates a better understanding of the given problem by correctly identifying the relationships between the ages of the girls.\n\nTherefore, \"2\"\n\n2"
+    },
+    {
+        "ID": 31,
+        "Score": "1",
+        "Reasoning": "Based on the given criteria, Submission 1 is better.\n\nStep-by-step evaluation:\n1. Submission 1 demonstrates a fundamental understanding of the mathematical reasoning required to solve the problem, even though there is a computational error in the initial calculation.\n2. Submission 2 contains errors in the approach and computation, leading to an incorrect solution.\n3. Both submissions lack an in-depth explanation or exploration of alternative methods, but Submission 1 at least presents a clear and systematic approach to the solution.\n\nTherefore, based on the criteria provided, Submission 1 is better.\n\n1"
+    },
+    {
+        "ID": 32,
+        "Score": "0",
+        "Reasoning": "Based on the given criteria, both submissions exhibit a competent understanding of the mathematical nature of the problem, employing mostly accurate methods and deriving plausible solutions. However, both submissions contain minor computational errors or omissions, and while the steps are clear, the detailed explanations or nuances might be insufficient or imprecise. Both submissions outline a clear and systematic approach to the solution but may occasionally fall short of providing in-depth insights or exploring alternative methods. Therefore, neither submission is significantly better than the other based on the provided criteria.\n\n0"
+    },
+    {
+        "ID": 33,
+        "Score": "0",
+        "Reasoning": "Based on the given criteria, both submissions demonstrate a competent level of understanding. They both correctly calculate the perimeter of the park and use the appropriate formula to find the time it takes for Gary to walk around the park. However, both submissions contain minor computational errors in the final calculation. Submission 1 correctly shows the steps but makes an error in the final division, while Submission 2 correctly calculates the division but has a minor error in the initial perimeter calculation. \n\nGiven the minor nature of the errors and the overall demonstration of understanding, it is difficult to definitively say that one submission is better than the other based on the provided criteria. Both submissions exhibit a competent level of mathematical reasoning and understanding.\n\n0"
+    },
+    {
+        "ID": 34,
+        "Score": "0",
+        "Reasoning": "Based on the given criteria, both submissions demonstrate a fundamental lack of mathematical reasoning. Submission 1 incorrectly calculates the total number of M&Ms by adding the numbers without considering the nature of the problem, leading to an incorrect result. Submission 2 makes errors in the calculation of the number of M&Ms in the third bag, leading to an incorrect total as well. Both submissions misinterpret the problem and fail to apply the correct mathematical principles.\n\n0"
+    },
+    {
+        "ID": 35,
+        "Score": "0",
+        "Reasoning": "Based on the given criteria, both submissions demonstrate a competent level of understanding. They both correctly calculate the total number of crayons purchased by Beatrice and provide clear, systematic approaches to the solution. However, both submissions contain minor computational errors, as one submission incorrectly calculates the total number of crayons in the six packets, and the other contains a small typographical error in the final answer. Overall, both submissions exhibit a sound understanding of the mathematical nature of the problem, employing mostly accurate methods and deriving plausible solutions. Therefore, neither submission is significantly better than the other based on the provided criteria.\n\n0"
+    },
+    {
+        "ID": 36,
+        "Score": "2",
+        "Reasoning": "Based on the given criteria, both submissions exhibit a competent level of mathematical reasoning. \n\nSubmission 1 demonstrates a clear understanding of the problem and provides a step-by-step solution. However, it contains a minor error in the final calculation, stating that Hannah needs to drink 114558960 ml of water instead of 114558960 ml.\n\nSubmission 2 also shows a solid grasp of the problem and provides a step-by-step solution. It correctly calculates the total amount of water Hannah needs to drink and presents the answer in a clear manner.\n\nConsidering the minor error in Submission 1's final calculation, Submission 2 is slightly better as it accurately presents the final answer without computational errors.\n\n2"
+    },
+    {
+        "ID": 37,
+        "Score": "2",
+        "Reasoning": "Based on the given criteria, both submissions demonstrate a competent understanding of the mathematical principles involved. Both submissions correctly apply the concept of doubling the height of the beanstalk and adding the additional growth in the third week. However, both submissions contain minor computational errors in their explanations. Submission 1 incorrectly states that the beanstalk doubled in height in the second week, while Submission 2 contains formatting issues with the use of \"<< >>\" symbols for mathematical operations. \n\nConsidering the minor errors in both submissions, they align closely with the \"Competent\" level of understanding. However, Submission 2 presents the information in a clearer and more structured manner, despite the formatting issues. Therefore, Submission 2 is slightly better in terms of clarity and presentation.\n\n2"
+    },
+    {
+        "ID": 38,
+        "Score": "2",
+        "Reasoning": "Based on the given criteria, Submission 2 is better.\n\nExplanation:\n- Submission 1: The response shows a fundamental lack of mathematical reasoning, as it incorrectly calculates the total cost of buying the bananas individually and in bunches. It misinterprets the essential mathematical principles underlying the problem and contains significant errors in approach and computation.\n- Submission 2: The response exhibits some understanding of the relevant mathematical principles and provides a more accurate approach to solving the problem. It correctly calculates the total cost of buying the bananas individually and in bunches, demonstrating a better grasp of the mathematical nature of the problem.\n\nTherefore, Submission 2 is better.\n\n2"
+    },
+    {
+        "ID": 39,
+        "Score": "0",
+        "Reasoning": "Based on the given criteria, both submissions demonstrate a competent level of mathematical reasoning. They both correctly calculate the original price, the price at which Mr. Rogers bought the watch, and the price at which he sold it to his friend. They both use the correct formula to calculate the percentage discount obtained by Mr. Roger's friend from the original price and arrive at the correct answer of 10%.\n\nTherefore, both submissions meet the criteria for a competent level of understanding and accuracy in mathematical reasoning.\n\n0"
+    },
+    {
+        "ID": 40,
+        "Score": "2",
+        "Reasoning": "Based on the given criteria, Submission 1 receives a score of \"2\" and Submission 2 receives a score of \"3.\" \n\nSubmission 1 is rated as \"2\" because it exhibits some understanding of the relevant mathematical principles but is marred by significant errors in approach and computation. The solution misinterprets the problem by not accounting for the 1/4 of attendees who don't show up. It also contains computational errors in determining the number of gift bags and the total cost.\n\nSubmission 2 is rated as \"3\" because it reflects a sound understanding of the mathematical nature of the problem and employs mostly accurate methods to derive a plausible solution. Although it correctly accounts for the 1/4 of attendees who don't show up and calculates the total cost accurately, it fails to provide a step-by-step explanation of the solution.\n\nTherefore, Submission 2 is better.\n\n2"
+    }
+]
